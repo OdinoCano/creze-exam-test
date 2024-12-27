@@ -1,0 +1,6 @@
+front/creze/node_modules/
+back/*.pyc
+back/*.py~
+back/*.sqlite3
+*.hcl
+.terraform/
